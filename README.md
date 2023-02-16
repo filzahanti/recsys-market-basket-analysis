@@ -1,7 +1,7 @@
 # recsys-market-basket-analysis
 Final Project of Data Science Bootcamp
 ## This project consists of two parts:
-1. Recommendation System (latest score: 0.02203)
+1. Recommendation System (latest score: 0.0225)
 2. Market Basket Analysis
 
 ## Overview
