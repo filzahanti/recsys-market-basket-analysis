@@ -5,5 +5,6 @@ Final Project of Data Science Bootcamp
 2. Market Basket Analysis
 
 ## Overview
-Develop product recommendations for H&M Group based on data from previous transactions, as well as from customer and product meta data. The available meta data spans from simple data, such as garment type and customer age, to text data from product descriptions, to image data from garment images.<br>
+The H&M Group is a brand and business family with 53 online markets and approximately 4,850 stores. H&M's online store provides customers with a wide range of products to choose from.<br>
+Product recommendations are essential for improving the shopping experience. More importantly, assisting customers in making the best decisions has a positive impact on sustainability because it reduces returns and thus reduces transportation emissions.<br>
 <b>Dataset:</b> https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview
